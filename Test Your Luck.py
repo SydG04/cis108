@@ -39,7 +39,6 @@ def main():
             break
 main()
 '''
-I tried. I accepted my fate :)
 Pseudocode:
 1. Import random library
 2. Create a variable for the candies in the bucket and the candy bag for the user. 
